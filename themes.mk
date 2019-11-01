@@ -1,7 +1,8 @@
 # Theme
 PRODUCT_PACKAGES += \
     CarbonBlackTheme \
-    CarbonBlackThemeSysui
+    CarbonBlackThemeSysui \
+    CarbonThemesStub
 
 # Add theme specific overlays
 DEVICE_PACKAGE_OVERLAYS += vendor/themes/overlay/common
