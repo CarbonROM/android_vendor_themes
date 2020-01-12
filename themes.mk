@@ -28,6 +28,10 @@ PRODUCT_PACKAGES += \
     UserSeven \
     Yellow
 
+# Theme
+PRODUCT_PACKAGES += \
+    CarbonBlackTheme
+
 # Add theme specific overlays
 DEVICE_PACKAGE_OVERLAYS += vendor/themes/overlay/common
 
