@@ -7,7 +7,6 @@ PRODUCT_PACKAGES += \
 # Accents
 PRODUCT_PACKAGES += \
     Amber \
-    Black \
     Blue \
     BlueGrey \
     Brown \
@@ -34,8 +33,7 @@ PRODUCT_PACKAGES += \
     UserFive \
     UserSix \
     UserSeven \
-    Yellow \
-    White
+    Yellow
 
 # Add theme specific overlays
 DEVICE_PACKAGE_OVERLAYS += vendor/themes/overlay/common
