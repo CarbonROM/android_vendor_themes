@@ -22,7 +22,6 @@ PRODUCT_PACKAGES += \
     Netflix \
     Orange \
     Pink \
-    PixelBlue \
     Purple \
     Red \
     Teal \
