@@ -1,9 +1,3 @@
-# Primary
-PRODUCT_PACKAGES += \
-    PrimaryColorCarbonBlackOverlay \
-    PrimaryColorCarbonOceanOverlay \
-    PrimaryColorCarbonNatureOverlay
-
 # Accents
 PRODUCT_PACKAGES += \
     Amber \
