@@ -8,6 +8,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     Amber \
     Amethyst \
+    Aquamarine \
     Blue \
     BlueGrey \
     Brown \
