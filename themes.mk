@@ -7,6 +7,7 @@ PRODUCT_PACKAGES += \
 # Accents
 PRODUCT_PACKAGES += \
     Amber \
+    Amethyst \
     Blue \
     BlueGrey \
     Brown \
