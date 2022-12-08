@@ -1,7 +1,6 @@
 # Theme
 PRODUCT_PACKAGES += \
     CarbonBlackTheme \
-    CarbonBlackThemeSysui \
     CarbonThemesStub
 
 # Add theme specific overlays
