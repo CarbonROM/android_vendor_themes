@@ -32,4 +32,9 @@
   <color name="system_neutral2_800">#171717</color>
   <color name="system_neutral2_900">#000000</color>
   <color name="system_neutral2_1000">#000000</color>
+
+  <!-- Material Colors -->
+  <color name="material_grey_800">#121212</color>
+  <color name="material_grey_900">#000000</color>
+
 </resources>
