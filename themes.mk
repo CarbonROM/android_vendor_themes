@@ -1,7 +1,7 @@
 # Theme
 PRODUCT_PACKAGES += \
     CarbonBlackTheme \
-    CarbonThemesStub
+    ThemesStub
 
 # IconShapes
 PRODUCT_PACKAGES += \
